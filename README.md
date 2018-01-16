@@ -19,6 +19,6 @@
 
 All'avvio mostra l'ora in tempo reale coi caratteri di MR.ROBOT
 
-#IN CASO DI PROBLEMI
+# IN CASO DI PROBLEMI
 Installare il font presente nella cartella font
 
